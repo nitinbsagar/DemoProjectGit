@@ -6,7 +6,9 @@ public class Example {
 		int a=10;
 		int b=20;
 		int c=a+b;
-		System.out.println("Addtion is Two Number ="+c);
+		System.out.println("Value of a ="+a);
+		System.out.println("Value of b ="+b);
+		System.out.println("Value of c ="+c);
 	}
 
 }
